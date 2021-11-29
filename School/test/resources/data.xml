@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<COURSES course_id='1' course_name='Software Developer'
+		course_description='Is the process of designing, programming, testing, and bug fixing.' />
+	<COURSES course_id='2' course_name='Music'
+		course_description='Is explore music from some different perspectives in these courses.' />
+
+	<GROUPS group_id='1' group_name='AA - 01' />
+	<GROUPS group_id='2' group_name='BB - 02' />
+	<GROUPS group_id='3' group_name='CC - 03' />
+	<GROUPS group_id='4' group_name='DD - 04' />
+
+	<STUDENTS student_id='1' group_id='1' first_name='Tony' last_name='Stark' />
+	<STUDENTS student_id='2' group_id='2' first_name='Bruce' last_name='Wayne'  />
+	<STUDENTS student_id='3' group_id='3' first_name='Lex' last_name='Luthor'  />
+
+
+	<STUDENTS_COURSES student_id='1' course_id='1' />
+	<STUDENTS_COURSES student_id='1' course_id='2' />
+
+	<STUDENTS_COURSES student_id='2' course_id='1' />
+	<STUDENTS_COURSES student_id='2' course_id='2' />
+
+	<STUDENTS_COURSES student_id='3' course_id='2' />
+
+</dataset>

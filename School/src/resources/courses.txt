@@ -1,0 +1,10 @@
+Mathematics_Includes the study of such topics as quantity (number theory), structure (algebra), space (geometry), and change (analysis)
+Physic_Is the branch of science that deals with the structure of matter and how the fundamental constituents of the universe interact
+Informatics_Is the study of computational systems, especially those for data storage and retrieval
+Software Developer_Is the process of designing, programming, testing, and bug fixing involved in creating and maintaining applications, frameworks
+Economics_Is a social science concerned with the production, distribution, and consumption of goods and services
+History_Is an umbrella term that relates to past events as well as the memory, organization, presentation, and interpretation of information about these events
+Culture_Is an umbrella term which encompasses the social behavior and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, and habits of the individuals in these groups
+Electronic Engineering_Is an electrical engineering discipline which utilizes nonlinear and active electrical components to design electronic circuits, devices, integrated circuits and their systems
+Robotics Engineering_Is a field of engineering which centers on building machines that replicate human actions
+Music_Is explore music from some different perspectives in these courses.
